@@ -1,14 +1,7 @@
 # Scary Maze Game
 
-A browser game.
+GAME UNTUK MABUB.
 
-### https://hqscarymaze.onrender.com
+### IG : @phetersly
 
 ## Scary Maze
-
-![Scary Maze](./Scary_Maze.png?raw=true "Scary Maze")
-
-## Version History
-
-- 0.1
-  - Initial Release
